@@ -114,10 +114,19 @@ https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV [No 24/7](América Latina)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://animezonetv.net/
+http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208388.png?1788920338" group-title="Anime",Fun TV 
+https://183.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208867.png?1788920500" group-title="Anime",Fun TV Este
+https://183.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)
@@ -140,6 +149,8 @@ http://45.5.118.188:8000/play/a01e/index.m3u8
 http://45.228.234.62:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/209148.png?1788920583" group-title="Anime",Cartoon Clasico 
+https://183.bozztv.com/giatv/giatv-CartoonClasico/CartoonClasico/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210686.jpg?1788308619" group-title="Anime",Macross TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210686/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball / Dragon Ball Z (América Latina)
@@ -936,6 +947,8 @@ https://g2.vxral-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/c1
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Entretenimiento / Cine / Series", Canal 3 La Pampa (La Pampa / Argentina)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208214.png?1788919862" group-title="Entretenimiento / Cine / Series", Casa Grande TV
+https://183.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qB6I274.png" group-title="Entretenimiento / Cine / Series", Canal 4 Jujuy [Not 24/7] (Jujuy)
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Entretenimiento / Cine / Series", Canal 7 Jujuy (Jujuy / Argentina)
