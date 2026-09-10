@@ -176,7 +176,7 @@ https://ca7c8b78.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200040YF_20260127T040143SQUARE.png" group-title="Doramas / Asia",Series K-Drama
 https://jmp2.uk/stvp-ES200040YF
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jWszKpW/K-POP-TV-PLAY.jpg" group-title="Doramas / Asia", K-POP SD
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD4100001DU_20251013T053448SQUARE.png" group-title="Doramas / Asia",K-Drama+
 https://jmp2.uk/stvp-ESBD4100001DU
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES200041FT_20260127T040140SQUARE.png" group-title="Doramas / Asia",Series K-Comedia Romántica
@@ -327,8 +327,6 @@ https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
 https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MkDnDWgM/Soy-TVPlus.png" group-title="Cine / Películas", Canal ZoyTV Plus [No 24/7]
-https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica [No 24/7] (Ecuador)
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV [No 24/7](Rep. Dominicana)
@@ -355,9 +353,9 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viJBL6f.png" group-title="Cine / Películas", Retrox TV [No 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+https://stream-retroxtv.site/live/ofertasplustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2N0Gn7b/retroxplus.png" group-title="Cine / Películas", RETROX PLUS [No 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/retp/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/liveretroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Cine / Películas", Retro Plus TV [No 24/7]
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="Cine / Películas", TeleCinco Trelew [No 24/7](Chubut / Argentina)
@@ -473,7 +471,7 @@ http://181.225.190.242:8000/play/a00w
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.2)
 http://181.78.8.199:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/ZgP2hE3.png",Cine Familiar HD (Opc.3)
-http://181.79.90.38:8000/play/a05k/index.m3u8
+http://190.60.47.182:8000/play/a0bw/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.1)
 http://181.225.190.242:8000/play/a00y
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/tC3jGd4.png",Cine Premium HD (Opc.2)
@@ -824,6 +822,8 @@ https://videohd.live:19360/8076/8076.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png" group-title="Entretenimiento / Cine / Series", F10 HD (El Alto / La Paz / Bolivia)
 https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (La Paz) [No 24/7]
+https://tv2.bitstreaming.net:3576/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ES6xFAv.png" group-title="Entretenimiento / Cine / Series", NSTV (Cúcuta / Norte de Santander / Colombia)
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Entretenimiento / Cine / Series", Canal 4 Posadas (Misiones / Argentina)
@@ -1031,6 +1031,8 @@ https://sv72.ecuaradiotv.net/lanuevatv/live/playlist.m3u8
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Entretenimiento / Cine / Series", UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
 https://d1mws3umreue1g.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="Cine / Películas", GigaVision (Santa Cruz) [No 24/7]
+https://tv.bitstreaming.net:3348/multi_live/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", SPC Canal 15
 https://183.bozztv.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WptTs8HJ/bayres-tv-removebg-preview.png" group-title="Entretenimiento / Cine / Series", Bayres TV (Clasicos) [No 24/7] (Argentina)
@@ -1103,6 +1105,8 @@ https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Telemundo Noticias",Telemundo Live Stream Schedule
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ax6P1Ri.png" group-title="Tecnología",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/5.jpg" group-title="Documentales y Cultura",Xphere One
 https://stmv2.voxtvhd.com.br/xphereone/xphereone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2026/04/7.jpg" group-title="Documentales y Cultura",Xphere Cosmos
