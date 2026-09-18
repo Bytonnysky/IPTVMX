@@ -111,7 +111,9 @@ https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina) [No 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal
-http://146.19.49.197:81/live/loco_hi/index.m3u8
+http://146.19.49.197:81/live/loco.m3u8
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [Opc.2]
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal
 https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV [No 24/7](América Latina)
@@ -119,14 +121,14 @@ https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=http://animezonetv.net/
 http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV 
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [Opc.2]
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
 https://live20.bozztv.com/akamaissh101/ssh101/onlinezyoontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208388.png?1788920338" group-title="Anime",Fun TV 
-https://183.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208867.png?1788920500" group-title="Anime",Fun TV Este
-https://183.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Anime",TV Grupo Medios Mendoza Anime
 https://live20.bozztv.com/giatvplayout7/giatv-211565/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RVYgh7h9/ETC-Logo.png" group-title="Anime",ETC TV (Chile)
@@ -144,7 +146,7 @@ http://181.225.190.242:8000/play/a00d
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
 http://186.33.1.71:8000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
-http://45.5.118.188:8000/play/a01e/index.m3u8
+http://152.231.29.139:8000/play/a0ho/index.m3u8
 #EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.3)
 http://45.228.234.62:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
@@ -389,7 +391,7 @@ http://45.228.234.62:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.2]
 http://200.35.176.154:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Cine / Películas Premium",Universal Crime HD [Opc.3]
-http://45.5.118.188:8000/play/a04u/index.m3u8
+http://45.167.1.138:8000/play/a066
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Cine / Películas Premium",TNT HD
 http://186.33.26.18:8000/play/a0rn/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT HD (Opc.2)
@@ -483,7 +485,7 @@ http://181.78.8.199:8000/play/a09n/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.1)
 http://186.33.26.18:8000/play/a0rp/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.2)
-http://45.5.118.188:8000/play/a05k/index.m3u8
+http://45.228.234.62:8000/play/a06p/index.m3u8
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://i.imgur.com/2V0R0xT.png",Cine Latino SD (Opc.3)
 http://190.61.101.11:7050/play/a06a/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Cine / Películas Premium",Golden SD
