@@ -96,11 +96,13 @@ https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 https://cl-2.backend.energeek.cl/bkp/egretro/mobile/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5sbNPdy/Delmi-TV.png" group-title="Anime",Delmi TV 
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2026/04/Logo-animado-de-Delmi-TV-150x100.png" group-title="Anime",Delmi TV(Opc.2)
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2047461178071265280/Cls7Do2F.jpg" group-title="Anime",TALTAL TV 2
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/51b63550-8da5-41c0-a22b-7cf6324e8aeb/channel-icon/2026/03/08/1773000093297-kyp1tw-tlmaslogo.png" group-title="Anime",TL+ (El Salvador)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7K4cXR9YOqI/maxresdefault.jpg" group-title="Anime",TL+ (El Salvador)
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://arc.cms.elektamedia.com/media/uploads/channel/96f47b4f-6559-4b01-b3cb-4e5ea5d3ae36/channel-icon/2026/03/23/1774305986670-qtfeqq-primired.png" group-title="Anime",Primired Anime (América Latina)
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
@@ -130,6 +132,8 @@ http://animezonetv.net/hls/stream.m3u8
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 #EXTINF:-1 tvg-name="Anime XTV" tvg-id="animextv" tvg-logo="http://locomotiontv.com/locomotion/aztv_logo.png" group-title="Anime", Anime XTV [Opc.2]
 http://146.19.49.197:81/live/animextv_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/anime-presente-150x150.jpg" group-title="Anime",Anime presente
+https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV HD (Chile)
 https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/zyoontv.png" group-title="Anime",Zyoon TV SD (Chile)
@@ -148,12 +152,14 @@ http://190.61.101.11:7050/play/a091/index.m3u8?hls
 http://190.61.114.186:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="Anime",Bitme HD (México)[Opc.3]
 http://181.225.190.242:8000/play/a00d
-#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
+#EXTINF:-1 group-title="Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.1)
 http://186.33.1.71:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
+#EXTINF:-1 group-title="Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.2)
 http://152.231.29.139:8000/play/a0ho/index.m3u8
-#EXTINF:-1 group-title="Anime" tvg-logo="	https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.3)
+#EXTINF:-1 group-title="Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",Adult Swim SD (Opc.3)
 http://45.228.234.62:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Anime" tvg-logo="https://logos-world.net/wp-content/uploads/2023/01/Adult-Swim-Logo.jpg",Adult Swim HD (Opc.4)
+http://181.119.215.61:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/eg-fan-2.png" group-title="Anime",EnerGeek Fan (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egfanweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/210686.jpg?1788308619" group-title="Anime",Macross TV 
@@ -279,6 +285,8 @@ https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playl
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xdSqFSk/CINE-EN-ESPANOL.png" group-title="Cine / Películas", Cine en Español
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e46f27a915f9b5184e9a.m3u8?X-Plex-Token=s-LCv6BwD-9AmtyXYc67
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas", Claro Cinema
+http://45.182.22.53:8000/play/a0b1/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fz6bFWLw/Logo-estatico-full-color-1-e1738953849431.png" group-title="Cine / Películas", Todo Cine
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-644c446d7472b186783f359e.m3u8?X-Plex-Token=ZM-hxdz1yNmR9tokPfyJ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kV2YQv6r/Logo-cine-de-horror-Mayo5.png" group-title="Cine / Películas", Cine de Horror
@@ -747,6 +755,8 @@ http://45.5.118.188:8000/play/a034/index.m3u8
 http://45.5.117.188:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="Entretenimiento Premium",Euro Channel SD [Opc.3]
 http://45.5.117.187:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://carjocosa.space/studio/logo.png" group-title="Entretenimiento Premium",Estudio + TV HD
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime
 http://45.167.2.101:8000/play/a0q4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Entretenimiento Premium", Lifetime [Opc.2]
@@ -763,6 +773,10 @@ http://186.148.175.138:8000/play/a075
 http://152.231.29.139:8000/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rliwD3S.png" group-title="Entretenimiento Premium",Canal 9 SD (Nicaragua) [Opc.1]
 http://179.60.224.196:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi-NGZhblCE0Ll0cwiUyR6XY5SadlILuEEOtxG3EVdg&s=10" group-title="Entretenimiento Premium",MTV
+http://191.97.55.72:8000/play/a0027/index.m3u8?fbclid=Iwb21leAUjB1pjbGNrBSMHTmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEevq11NHFG8cYgMb3kQDPg0lyKXBvYEfo0FpTZ1bFGrHSyx5Vg6Vwo3A4_W7E_aem_H3jQTGjdo4T7MS10ehEGfg
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi-NGZhblCE0Ll0cwiUyR6XY5SadlILuEEOtxG3EVdg&s=10" group-title="Entretenimiento Premium",MTV(Opc.2)
+http://45.182.22.53:8000/play/a0dh/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Teleonce_Logo_2021_%28cropped%29.svg" group-title="Entretenimiento / Cine / Series", TeleOnce (Puerto Rico)
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Entretenimiento / Cine / Series", Cali TV (Cali - Colombia)
@@ -1188,8 +1202,6 @@ http://181.119.177.253:8000/play/a0dd/index.m3u8
 http://45.228.234.62:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png" group-title="Documentales y Cultura",E! Entertainment HD [Opc.3]
 http://38.52.208.106:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Documentales y Cultura" tvg-logo="https://carjocosa.space/studio/logo.png" ,Estudio + TV HD
-https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales y Cultura",Animal Planet HD [Opc.1]
 http://45.5.118.152:8000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentales y Cultura",Animal Planet HD [Opc.2]
@@ -1530,6 +1542,8 @@ https://jmp2.uk/stvp-ES4400001N3
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Infantiles", Logos TV Kids (Latam)
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6RjuLHkBKot7S0QA5nfX0ST-mxKlFGwNo5PkMnTzmLg&s" group-title="Infantiles", Extrema Kids TV(Latam)
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Música",Totalmusic (Internacional)
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Música",Totalmusic 80s (Internacional)
@@ -1805,6 +1819,10 @@ http://190.61.101.11:7050/play/a0af/index.m3u8?hls
 http://181.78.192.238:8000/play/a2hu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="Deportes" ,Claro Sports SD
+http://45.182.22.53:8000/play/a0c2/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="Deportes", Claro Sports SD (opc.2)
+http://45.182.22.53:8000/play/a09x/index.m3u8?fbclid=Iwb21leAUpZV5jbGNrBSllUmV4dG4DYWVtAjExAHBkb2YFc3J0YwZhcHBfaWQMMzUwNjg1NTMxNzI4AAEe6T7KyltuhxZUKGf2hFi8JWpnhnH0S2NIFUXX4PA0TJvdNKiyJ6xMB_cKg58_aem_3yQIfSJ_A-clU4K8PJSj7w
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Deportes",Nitro HD Eventos Deportivos [No 24/7]
 http://205.235.6.29:8000/play/a0y3/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/52/db/ef52db5e76e1e062d4dbeb0e28df3beb.jpg" group-title="Deportes",Eventos Deportivos HD V1 [No 24/7]
