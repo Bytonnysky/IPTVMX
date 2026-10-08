@@ -90,8 +90,6 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 https://stream.unison.mx/hls/unisontvatem.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ndOGVXI.png" group-title="México", Vibe TV HD [No 24/7] (Guanajuato)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwvbyr0/unnamed.jpg" group-title="Bolivia UPP TV / Bolivisión SCZ  [Not 24/7] (Santa Cruz)
-https://d1mws3umreue1g.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png" group-title="Anime",EnerGeek Retro (América Latina)[Opc.2]
@@ -1014,8 +1012,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/multicanal/playlist.m3u8
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oFGiW7u.png" group-title="Entretenimiento / Cine / Series", RN Televisión [No 24/7] (Perú - Yurimaguas - Loreto)
 https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Entretenimiento / Cine / Series", Unitel [No 24/7](Perú - Ica)
-https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gj5NMa.png" group-title="Entretenimiento / Cine / Series", Visión NDV [No 24/7](Perú - Pucallpa)
 https://soportedvb.click:3891/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Entretenimiento / Cine / Series", Teleselva [No 24/7] (Perú - Satipo - Junín)
