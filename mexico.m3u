@@ -375,6 +375,8 @@ https://videohd.live:19360/8016/8016.m3u8
 https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20250107T024921SQUARE.png" group-title="Cine / Películas", Action Movie Channel (SUB)
 https://jmp2.uk/stvp-ESBC40000248
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9J1y-moi-CL2io9f_5CSDsZhNt3w4oOWrqazKULZUdL6p3LqIDmsKdJ_&s=10" group-title="Cine / Películas",rumba TV cine
+https://tv.sistemasandinos.org/rumbatv/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" group-title="Cine / Películas Premium",Studio Universal SD (Opc.1)
 http://200.59.191.177:8000/play/a0jo/index.m3u8?hls
 #EXTINF:-1 group-title="Cine / Películas Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",Studio Universal HD (Opc.2)
