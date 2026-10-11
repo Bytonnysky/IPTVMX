@@ -416,7 +416,7 @@ http://181.79.87.131:8000/play/a0ei/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Cine / Películas Premium",HBO HD [Opc.3]
 http://186.148.196.100:8000/play/a002
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.1]
-http://38.52.208.106:8000/play/a00l/index.m3u8
+http://186.33.26.18:8000/play/a0lp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.2]
 http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Cine / Películas Premium",HBO2 HD [Opc.3]
@@ -1900,7 +1900,7 @@ https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M5gwvKf6/1247f877b029d332e7b9d9231fb14ace.png" group-title="Deportes",Box Gamers (España)
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGp2ynmR/0-16x9-4.png" group-title="Deportes", PowerNation (Internacional)
-https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (Internacional)
 https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (Internacional)
@@ -1931,7 +1931,7 @@ http://190.117.20.37:8000/play/a08d/index.m3u
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 4]
 http://45.186.254.75:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 5]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports (ECU) [Opc. 5]
 http://157.100.9.51:8000/play/a26e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports 2  
 http://190.238.43.117:9000/play/a09f/index.m3u8
