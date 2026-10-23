@@ -334,8 +334,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7]
 https://streaming.hostpannel.lat/hls/video_156/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Cine / Películas", Next HD [No 24/7]
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="Cine / Películas", Opinión Sur Cine [No 24/7]
@@ -749,7 +747,7 @@ http://190.61.101.11:7050/play/a07q/index.m3u8?hls
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas SD [Opc.2]
 http://181.119.177.253:8000/play/a037/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas SD [Opc.3]
-http://181.119.177.253:8000/play/a037/index.m3u8
+http://45.5.118.152:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.1]
 http://181.224.255.210:8001/play/a0lv/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretenimiento Premium",TNT Novelas HD [Opc.2]
@@ -906,6 +904,8 @@ https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/647WCF8.png" group-title="Entretenimiento / Cine / Series",Hispania TV  (Panamá)
 http://181.78.121.15:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://nexpanama.com/wp-content/uploads/2019/08/logo-nex-web3.png" group-title="Entretenimiento / Cine / Series",NexPanama  (Panamá)
+https://movil.ejeserver.com/live/nextv.m3u8?r=936
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Entretenimiento / Cine / Series", Canal Trece (Andina y Amazonía / Colombia )
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
@@ -926,7 +926,7 @@ https://amg01602-amg01602c2-canelatv-international-5561.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama[Opc.2]
 http://45.167.2.138:8000/play/a0oa/index.m3u8
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=Web" group-title="Entretenimiento / Cine / Series",Thema Vive Kanal Drama[Opc.3]
-http://186.33.26.18:8000/play/a0oa/index.m3u8
+http://181.119.177.253:8000/play/a0d3/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3600001Y7_20260505T035729SQUARE.png" group-title="Entretenimiento / Cine / Series",Rebelde
 https://jmp2.uk/stvp-ES3600001Y7
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES440000327_20260120T031340SQUARE.png" group-title="Entretenimiento / Cine / Series",Todo Drama
@@ -1795,6 +1795,8 @@ http://181.78.192.238:8000/play/a2hq/index.m3u8
 http://181.78.50.91:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/11/18/1001268243-logo-caze-tv-610x400.jpg" group-title="Deportes",CazéTV (BR) [Geo-Blocked]
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/11/18/1001268243-logo-caze-tv-610x400.jpg" group-title="Deportes",CazéTV (BR) [Twitch]
+https://www.twitch.tv/cazetv_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Deportes",SBT (BR)
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wLjSSo2.jpg" group-title="Deportes", Multivisión Sports -Clasicos- (Guatemala) [No 24/7]
@@ -1846,7 +1848,7 @@ https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XJXyWhyH/bein-logo-af017869.png" group-title="Deportes", beIN Sports (ES)[Opc.2]
 https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.1]
-http://186.33.26.18:8000/play/a0r4/index.m3u8
+http://181.119.177.253:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.2]
 http://179.60.224.196:8000/play/a0f4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN [Opc.3]
@@ -1875,14 +1877,10 @@ http://186.33.1.71:8000/play/a045/index.m3u8
 http://181.119.185.32:8000/play/a002/index.m3u8?hls
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports SD (Internacional)
-http://181.79.87.130:8000/play/a0ck/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports AR
-http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports
 http://45.186.254.75:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports [Opc.2]
-http://45.5.57.132:8000/play/a09b/index.m3u8
+http://181.79.87.130:8000/play/a0ck/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://i.ibb.co/m52mt4N1/Ty-C-Sports.png", TyC Sports [Opc.3]
 http://38.65.175.87:8000/play/a0kw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
