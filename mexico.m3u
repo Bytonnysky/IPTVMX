@@ -370,7 +370,7 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama)[Opc.2]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png" group-title="Cine / Películas", Atacama TV [Not 24/7] (Copiapó - Atacama) [Opc.2]
 https://v4.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7f7M7zl.png" group-title="Cine / Películas", Metro TV [No 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -1932,7 +1932,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6R9LNbwj/world-billiards-tv-mx.png" group-title="Deportes", World Billiards TV (EE.UU.) [EN]
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=worldbilliardstv&channel_id=newid_003&mpf=57b62c7c-39af1962-091438e3&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=db7212dd-0d889b7d-fbfb03c7-7af801d1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 1]
-http://38.187.7.252:8000/play/a03d/index.m3u8
+http://181.209.80.115:8000/play/dsports_hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 2]
 http://190.117.20.37:8000/play/a08d/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports  [Opc. 3]
