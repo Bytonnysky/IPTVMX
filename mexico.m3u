@@ -246,6 +246,8 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas", Ipersonica
 https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2812-294x165-FFFFFF.jpg" group-title="Cine / Películas", Canal Telemax RD [No 24/7] (Rep. Dominicana)
+https://edge.essastream.com/telemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png" group-title="Cine / Películas",Nitro HD
 http://205.235.6.29:8000/play/a0xw/index.m3u8?hls
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas", Xiomoz
@@ -829,14 +831,10 @@ https://edge.essastream.com/xtratv/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",Los Simpson Latino Opc. 2
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="Entretenimiento / Cine / Series",¡Scooby-Doo! Misterios, S.A. (YouTube)
-https://www.youtube.com/watch?v=1e5d4mBbBxU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aAEs1Mp.png" group-title="Entretenimiento / Cine / Series",El Chavo TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arra.mx/cdn/shop/collections/banner--chespirito--brand-web.png" group-title="Entretenimiento / Cine / Series",Chespirito TV
 https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ShL7scnGnSjjH31BDwawE3ZqhUYWlIpfOoPaOp3aGIEbkLnuW1IH6wrW461MOf90wnbnJzBffA=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",S.W.A.T. en Español (Youtube)
-https://www.youtube.com/watch?v=qTqJCHP7sZ4
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/sfbEpnwLN9LSi6mWM2BzYv0o_mqleBXJuqInnedZL_MpL9g3sRETgulMpaiD-IDt8tHRF_8kTA=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Narcos, Sicarios y Acción (YouTube)
 https://www.youtube.com/watch?v=fTi3aTD7JxM
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/wwNGTaCQM4RhNWZqssQqJWvlULsgbvaHkmP3y_2zr_YR8aRYWWlhtJeM2PNMQQg9gWiTzxc1=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Rastros TV (Youtube)
@@ -923,6 +921,8 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 https://limited43.todostreaming.es/live/simbana-livestream10791.m3u8
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/tvlogos/AN24.png" group-title="Entretenimiento / Cine / Series", AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Entretenimiento / Cine / Series",Fabulosa Estéreo 100.5 FM (Panamá)
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" group-title="Entretenimiento / Cine / Series",Planet 100.9 FM (Panamá)
 https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/647WCF8.png" group-title="Entretenimiento / Cine / Series",Hispania TV  (Panamá)
