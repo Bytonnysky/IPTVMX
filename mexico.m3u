@@ -110,14 +110,14 @@ https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3
 http://181.78.121.15:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdsDrDZH/Animestation-(Shein-Media-2005).png" group-title="Anime",Anime Station (América Latina) [No 24/7]
-https://183.giatvcdn.com/giatv/giatv-livestreamingtv/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [No 24/7]
-http://146.19.49.197:81/live/loco.m3u8
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Primera señal [Opc.2][No 24/7] 
-http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/myevent2025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1794536202" group-title="Anime",Delmi
+https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/210634.png?1794536393" group-title="Anime",Delmi TV
+https://183.giatvcdn.com/giatvplayout7/giatv-210634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/210596.png?1794536467" group-title="Anime",Delmi Galicia
+https://183.giatvcdn.com/giatvplayout7/giatv-210596/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://janimotion.com/brand/janimotion-mark.svg" group-title="Anime",Janimotion (América Latina)
+https://janimotion.com/hls/janimotion/index.m3u8
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Anime",Canal Locomotion - Segunda señal [Opc.2][No 24/7]
 https://183.giatvcdn.com/giatvplayout7/giatv-210075/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://animezonetv.net/aztv.png" group-title="Anime",AnimeZone TV [No 24/7](América Latina)
@@ -169,7 +169,7 @@ https://183.giatvcdn.com/giatv/giatv-dball/dball/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Dragon Ball Super (América Latina)
 https://183.giatvcdn.com/ssh101/ssh101/dbsuperlat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/medium/0/6/0/4/406_4265b.png" group-title="Anime",Dragon Ball Peliculas (América Latina)
-https://183.giatvcdn.com/akamaissh101/ssh101/gokupelis/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/gokupelis/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8Djdmdqn/Dragon-Ball-Super-TV.png" group-title="Anime",Naruto (Peliculas) (América Latina)
 https://183.giatvcdn.com/giatvplayout7/giatv-211970/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212089.jpg?1789175719" group-title="Anime",Death Note - Elfen Lied
@@ -336,11 +336,11 @@ https://canaletaplus.com:3922/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="Cine / Películas", Fabian Vision [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cine / Películas", TeleCine TV [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/cinetv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/cinetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Marvel_Cinematic_Universe_logo.png" group-title="Cine / Películas", MCU TV [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/imcu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2rdjwJ.png" group-title="Cine / Películas", TV Retro Palmares [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/tvretropalm2020/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="Cine / Películas", Canal Onza TV [No 24/7]
 https://streaming.hostpannel.lat/hls/video_156/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="Cine / Películas", Mega Cine TV [No 24/7]
@@ -350,19 +350,19 @@ https://183.giatvcdn.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/43/1/wow-sky-logo-png_seeklogo-439511.png" group-title="Cine / Películas", WOW Movies SD [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Movies [No 24/7]
 https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPRPzJdX/maxtvmovies.jpg" group-title="Cine / Películas", MAXTV Retro [No 24/7]
 https://tvstreaming.albpo.com/memfs/b55226da-30ec-434a-9090-166df8a37d5b.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="Cine / Películas", Canal 69 TV [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="Cine / Películas", Pantalla Clásica [No 24/7] (Ecuador)
-https://183.giatvcdn.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/DbjywI3.png" group-title="Cine / Películas", Codigo TV [No 24/7](Rep. Dominicana)
 https://edge.essastream.com/codigotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="Cine / Películas", Cine53 [No 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/codificador8/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/codificador8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="Cine / Películas", Mittos TV [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/tv777lv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="Cine / Películas", Alternativa TV [No 24/7]
@@ -1034,7 +1034,7 @@ https://183.giatvcdn.com/ssh101/ssh101/conecttv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://interconnecttheweb.com/wp-content/uploads/2025/08/LOGO-Y-TEXTO-INTERCONNECT-SIN-FONDO-300x187.png" group-title="Entretenimiento / Cine / Series", Quielpue OnLine 
 https://183.giatvcdn.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", TAK TV 
-https://183.giatvcdn.com/akamaissh101/ssh101/taktvonline/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/taktvonline/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento / Cine / Series", Nitida TV [No 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Entretenimiento / Cine / Series", GikTVMX [No 24/7](México)
@@ -1042,7 +1042,7 @@ https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Entretenimiento / Cine / Series", Canal 9 Resistencia [No 24/7](Chaco / Argentina)
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Buenos Aires TV
-https://183.giatvcdn.com/akamaissh101/ssh101/buenostv25/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/buenostv25/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Max Channel [No 24/7]
 https://183.giatvcdn.com/ssh101/ssh101/max1channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entretenimiento / Cine / Series", Power Vision TV [No 24/7]
@@ -1396,7 +1396,7 @@ http://181.119.177.253:8000/play/a06c/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/BabyFirstTV-Logo.png",BabyFirst SD [Opc.3]
 http://186.33.0.57:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/290/peque-radio-tv.0edf3e97.png" group-title="Infantiles", Pequeradio TV (ES)
-https://183.giatvcdn.com/akamaissh101/ssh101/pequeradiotv/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/pequeradiotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV
 http://181.224.255.210:8001/play/a0pz/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantiles",Baby TV(Opc.2)
@@ -1472,11 +1472,11 @@ http://45.167.1.139:8000/play/a03a
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/3yXRbQy.png",Tooncast (Opc.3)
 http://45.167.1.137:8000/play/a03a
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/lms.png" group-title="Infantiles", Canal LMS
-https://183.giatvcdn.com/akamaissh101/ssh101/canallms/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/canallms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico
 https://183.giatvcdn.com/giatv/giatv-retromagicochnl/retromagicochnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",RetroMagico [Opc.2]
-https://183.giatvcdn.com/akamaissh101/ssh101/retromagicocnl/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/retromagicocnl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png" group-title="Infantiles",Magic Kids [No 24/7]
 https://183.giatvcdn.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="Infantiles",Retro Cartoons
@@ -1637,7 +1637,7 @@ http://190.107.232.9:8082/livestream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dht94P4.png" group-title="Música", TVUNO (Perú)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3IhYd7G.jpg" group-title="Música", Salsa Gorda Television (Perú) [Not 24/7]
-https://183.giatvcdn.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Música", Retro Plus TV (Inglés) (Chile)
 https://srt01.logicahost.com.br/senal1/index.m3u8?ChileTv
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Música", Retro Plus TV (Español) (Chile)
@@ -1707,7 +1707,7 @@ https://hdbox.chunklistv.com/live?stream=tvone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="Música", 88 Stereo (Costa Rica) [No 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gextv.com/LOGO-WHITE.png" group-title="Música", Gex TV [No 24/7](Costa Rica)
-https://183.giatvcdn.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="Música", VM Latino [No 24/7](Costa Rica)
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCg7owd.png" group-title="Música", MasMusica FM [No 24/7](Colombia)
@@ -1754,8 +1754,6 @@ http://186.148.184.22:8000/play/a0i6/index.m3u8
 http://157.100.9.51:8000/play/a25q
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/0Wqdtb7VjWAc4Q==/c01bd1fb-966f-47e7-b382-fbbf9889e620/CHgQeDoFMS4xLjlAAQ==" group-title="Tigo Sports / Fox",FOX (TUBI CEAM)
 https://b.tubi1.apollo.adrise.io/live/fox-2-j8fvmx.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/aHl8rpkmcY7D4g==/25147691-1c29-442d-952a-65decb528c25/CHgQeDoFMS4xLjlAAQ==" group-title="Tigo Sports / Fox",Fox en tubi Xtra (Internacional) [No 24/7]
-https://live-manifest.production-public.tubi.io/live/13a764a8-a91d-4a17-a7f7-ee99250598b5/playlist.m3u8
 #EXTINF:-1 group-title="Tigo Sports / Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png", Fox (TUBI Internacional)
 https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Tigo Sports / Fox",Tigo Sports HD BO [Inestable]
@@ -2344,7 +2342,7 @@ https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony Channels",Sony One The Blacklist
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
-https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+https://srv3.pxfy.dev/?u=YeT-WkV7ZKL-cbjESYqcW50lDB5F7Jw3qVe6OU4bytzwb8vKE5LiwCSqmmaMcd9GMqc8vlStJ_KjT4lb&exp=1794628245&sig=bd46266465d7be03788a66ef9075a0b3ea0cd254a13e217d4e5289bc4db09bfb
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Rakuten TV",Comedia
