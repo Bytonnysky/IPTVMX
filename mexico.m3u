@@ -110,6 +110,8 @@ https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3
 http://181.78.121.15:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.energeek.cl/assets/img/channels/max-anime-3-c.png" group-title="Anime",Max Anime (América Latina)
 https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981903574/a81c20e9ef21_480_270.jpeg" group-title="Anime",Anime TV (América Latina)
+https://live-evg13.tv360.bitel.com.pe/bitel/animetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/209474.png?1794536202" group-title="Anime",Delmi
 https://183.giatvcdn.com/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pstream/210634.png?1794536393" group-title="Anime",Delmi TV
@@ -254,6 +256,10 @@ https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
 https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png" group-title="Cine / Películas",ENT Life
 https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981672636/d7b724f5088f_480_270.jpeg" group-title="Cine / Películas",+ Movie Accion
+https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/05/26/23/177981261781/1666ae69c89b_480_270.png" group-title="Cine / Películas",Fillka TV
+https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N09XXSpN/1125-294x165-FFFFFF.png" group-title="Cine / Películas", FMTV Mundo (Cadena Internacional)
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="Cine / Películas", Ipersonica
@@ -302,6 +308,8 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/387.m3u8
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVqczbhQ/ESBC2700003T8-20241022T050457SQUARE.png" group-title="Cine / Películas", Bjgtjme Películas Gratis
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767644988528/aceceab14c39_480_270.png" group-title="Cine / Películas", Creo Latino
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/48f00403-c73e-4fd5-9303-c3095bc5dcfa/Cine-Estrella-Horizontal-1920-x-1080_-_Erick_Ramirez.jpg" group-title="Cine / Películas", Cine Estrella
 https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WLzqRXY/Latino-Classic-TV.png" group-title="Cine / Películas", Latino Classic TV
@@ -316,6 +324,8 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-64e6e2f04a5e
 https://183.giatvcdn.com/giatvplayout7/giatv-211420/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/212244.png?1790729831" group-title="Cine / Películas", TerrorTV
 https://183.giatvcdn.com/giatvplayout7/giatv-212244/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/11/06/23/1793981478762/e86edd653d89_480_270.jpeg" group-title="Cine / Películas",Movie Terror
+https://live-evg13.tv360.bitel.com.pe/bitel/movieterror/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qb2bOE5I_bFHqByYCVwSNVbQOqeDZvlUyj1vsPQbsudfQvX_7J9oYq4KruJcv1cMq6-3wXO3dQ=s48-c-k-c0x00ffffff-no-rj" group-title="Cine / Películas", Suspenso (YouTube)
 https://www.youtube.com/watch?v=oxX_new26jw
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/P8cyFHqycwASTh4ByvxO3Bn4oEC6ZsDiooBkjTY_rj_sVLIABGTrgaB3wdqqfdGH0doUnzq1rw=s48-c-k-c0x00ffffff-no-rj" group-title="Cine / Películas", ACCIÓN SIN PARAR (YouTube)
@@ -600,9 +610,9 @@ http://45.5.118.152:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO
 http://190.61.101.11:7050/play/a08x/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.2]
-http://138.94.3.106:8000/play/a00p/index.m3u8
+http://45.5.117.57:8200/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHtOVRO.png" group-title="Cine / Películas Premium",CINE MEXICANO [Opc.3]
-http://181.79.86.130:8000/play/a00p/index.m3u8
+http://168.228.44.241:9997/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema
 http://45.182.22.53:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ack3kcrk3cz6/6UiRtTSHJVoMgRVFLdlND7/f043a423429dfae262daabbf115fa3be/41_ClaroCinema.png" group-title="Cine / Películas Premium", Claro Cinema [Opc.2]
@@ -851,6 +861,8 @@ https://183.giatvcdn.com/giatvplayout7/giatv-211111/playlist.m3u8
 https://www.youtube.com/watch?v=fTi3aTD7JxM
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/wwNGTaCQM4RhNWZqssQqJWvlULsgbvaHkmP3y_2zr_YR8aRYWWlhtJeM2PNMQQg9gWiTzxc1=s48-c-k-c0x00ffffff-no-rj" group-title="Entretenimiento / Cine / Series",Rastros TV (Youtube)
 https://www.youtube.com/watch?v=YGKZhWwFKaM
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/10/06/1770678354917/163a846ac13f_480_270.png" group-title="Entretenimiento / Cine / Series",EPA TV
+https://live-evg10.tv360.bitel.com.pe/bitel/epatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdPVkJQP/Apanines-TV.png" group-title="Entretenimiento / Cine / Series",Apanines TV
 https://183.giatvcdn.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx70Dk3Z/ptv.jpg" group-title="Entretenimiento / Cine / Series",PTV OnLine
@@ -1285,7 +1297,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Informativos", Ecotel TV (Loja - Ecuador)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-logo="https://venevision.vod.immergo.tv/venevision/uploaded/6b2f0053-d5f4-43ac-bd88-542b79fbfba6.png" group-title="Informativos", Venevision Noticias (Venezuela)
-https://dai.google.com/linear/hls/pa/event/q2LqrJ2ZRP6UuyzA6X0VsA/stream/ed51ab5e-9432-4fb3-92d5-6603d4671e51:CHS/master.m3u8
+https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Informativos", Exitosa TV (Perú - Nacional)[Opc.2]
@@ -1944,6 +1956,8 @@ https://cdnlive.klicgo.net/hrmax/live/playlist_dvr.m3u8
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b76-69814bbff871095eafc65925.m3u8?x-plex-token=aodMBFfiWQ9a_wrQtBsJ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PNnH6pjK/Diseno-sin-titulo(13).png" group-title="Deportes", Motorvision TV (Internacional)
 https://d23obwy8cjdxix.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w27b5ewgr6d28/mv_es.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/03/1767645593708/be4c102c0389_480_270.jpg" group-title="Deportes", Fierro a Fondo (Internacional)
+https://live-evg5.tv360.bitel.com.pe/bitel/fierroSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4ww1kPk/world-poker-tour-es.png" group-title="Deportes", World Poker Tour (Internacional)
 https://amg00218-wptenterprisesi-wptespanol-samsungspain-9s2tf.amagi.tv/ts-eu-w1-n2/playlist/amg00218-wptenterprisesi-wptespanol-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ5vX5Fx/redbulltv.png" group-title="Deportes", Red Bull TV (ES) (Internacional)
@@ -2102,6 +2116,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://183.giatvcdn.com/giatv/giatv-vivemusica/vivemusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvomix.com/Logos/Tvojesus.png" group-title="Religiosos", TVO Jesus (Argentina)
 https://cloud.tvomix.com/TVOJESUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/02/17/06/1771283483327/a3009cb8745d_480_270.png" group-title="Religiosos", ADA TV (Chile)
+https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="Religiosos",Ágape TV Canal 8 (El Salvador)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMmJLZ3y/taber-tv.png" group-title="Religiosos",TaberTV (El Salvador)
@@ -2349,8 +2365,6 @@ https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/
 https://bb5d0cf0f2fa4dbea91b1eebfdd144b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-831-ES-SONYONESERIESCOMEDIA-LG_ES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKKVdDm0/sone-one-blacklist-es.png" group-title="Sony Channels",Sony One The Blacklist
 https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-834-ES-SONYONETHEBLACKLIST-LG_ES/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/645e383c-88f5-4378-88fd-0d4989c01cde.jpeg" group-title="Rakuten TV",Pelis Top
-https://srv3.pxfy.dev/?u=YeT-WkV7ZKL-cbjESYqcW50lDB5F7Jw3qVe6OU4bytzwb8vKE5LiwCSqmmaMcd9GMqc8vlStJ_KjT4lb&exp=1794628245&sig=bd46266465d7be03788a66ef9075a0b3ea0cd254a13e217d4e5289bc4db09bfb
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/cc0a135a-3a25-4b7a-84b3-d29d5ee6e4d8.jpeg" group-title="Rakuten TV",Acción
 https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/68048254-04b5-4438-bb14-118427a0ba3a.jpeg" group-title="Rakuten TV",Comedia
